@@ -1,0 +1,12 @@
+
+ANALYSIS FOR 1000 TEST CASES  
+
+FORMAT: Average (+)(-) Standard Deviation
+
+Time Analysis for BFS is : 0.7665±0.1648secs
+Space Analysis for closed set size of BFS is: 1739.0±150.0275
+Time Analysis in run time for DFS is : 1.494±0.1876secs
+Space Analysis for closed set size of DFS is : 2000.0±52.6728
+
+
+
